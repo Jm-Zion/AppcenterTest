@@ -4,13 +4,13 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
+    "postinstall": "jetify",
     "test": "jest test",
     "appium": "appium",
     "appium:doctor": "appium-doctor",
     "lint": "eslint ."
   },
   "dependencies": {
-    "@bit/jm-zion.test.text": "file:./src/shared-components",
     "react": "16.8.6",
     "react-native": "^0.60.5",
     "react-native-code-push": "^5.7.0",
