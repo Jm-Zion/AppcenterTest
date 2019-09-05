@@ -1,0 +1,18 @@
+{
+  "name": "@bit/jm-zion.test.text",
+  "version": "1.0.2",
+  "homepage": "https://bit.dev/jm-zion/test/text",
+  "main": "text/package.json",
+  "dependencies": {
+    "react-native": "0.59.8",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react-typescript@3.0.6"
+    }
+  }
+}

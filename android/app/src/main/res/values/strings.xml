@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">cwK-kJT3aiZF5qbWV2QyCc3LFviY3443b3ea-4cf8-4326-9891-e182e94c68a7</string>
+    <string name="app_name">YamayComponents</string>
+</resources>
